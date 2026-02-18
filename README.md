@@ -1,2 +1,2 @@
-sol-agent
-Self-Improving, Self-Replicating, Sovereign AI on Solana
+# sol-agent
+# Self-Improving, Self-Replicating, Sovereign AI on Solana
